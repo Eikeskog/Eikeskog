@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Erik
-- 👀 I’m interested in web development (mostly using React, Django, SQL and PostCSS), machine learning and generative design.
 - 📫 Reach me on e.eikeskog@gmail.com
 
 <!---
